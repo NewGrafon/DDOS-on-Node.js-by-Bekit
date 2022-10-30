@@ -1,0 +1,14 @@
+{
+  "name": "ddos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "DDOS": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ddos-stress": "^0.1.0"
+  }
+}
